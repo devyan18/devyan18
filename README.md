@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **epache17@gmail.com**
 
-- ⚡ Hobbies **E-Sports and**
+- ⚡ Hobbies **E-Sports and Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
