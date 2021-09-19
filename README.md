@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Devyan!</h1>
 <h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Personals Projects**
+- 🔭  I’m currently working on **Personals Projects**
 
-- 🌱 I’m currently learning **React Native, Electron Js, Next Js, TypeScript**
+- 🌱  I’m currently learning **React Native, Electron Js, Next Js, TypeScript**
 
-- 👯 I’m looking to collaborate on **React Native Projects**
+- 👯  I’m looking to collaborate on **React Native Projects**
 
-- 🤝 I’m looking for help with **Next Js**
+- 🤝  I’m looking for help with **Next Js**
 
-- 💬 Ask me about **JavaScript**
+- 💬  Ask me about **JavaScript**
 
-- 📫 How to reach me **epache17@gmail.com**
+- 📫  How to reach me **epache17@gmail.com**
 
-- ⚡ Hobbies **E-Sports and Music**
+- ⚡   Hobbies **E-Sports and Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
