@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Next Js**
 
-- 💬 Ask me about **JavaScript, Python, Performance Front-end, ReactJs**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **epache17@gmail.com**
 
