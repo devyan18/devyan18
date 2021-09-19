@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Next Js**
 
-- 📝 I regularly write articles on [midu.dev](midu.dev)
+- 📝 I regularly write articles on [midudev](midudev)
 
 - 💬 Ask me about **JavaScript, Python, Performance Front-end, ReactJs**
 
