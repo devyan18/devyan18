@@ -3,11 +3,11 @@
 
 - 🔭  I’m currently working on **Personals Projects**
 
-- 🌱  I’m currently learning **React Native, Electron Js, Next Js, TypeScript**
+- 🌱  I’m currently learning **React Native, ElectronJS, NextJS, TypeScript**
 
 - 👯  I’m looking to collaborate on **React Native Projects**
 
-- 🤝  I’m looking for help with **Next Js**
+- 🤝  I’m looking for help with **NextJS**
 
 - 💬  Ask me about **JavaScript**
 
