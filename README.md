@@ -1,19 +1,41 @@
-<h1 align="center">Hi 👋, I'm Claudio!</h1>
-<h3 align="center">A passionate full-stack developer from Argentina</h3>
+<h1 align="center">Hi 👋, I'm Dev!</h1>
 
-- 🔭  I’m currently working on **Personals Projects**
+```rust
+struct Description {
+    full_name: String,
+    country: String,
+    role: String,
+    languages: Vec<String>,
+    technologies: Vec<String>,
+}
 
-- 🌱  I’m currently learning **React Native, ElectronJS, NextJS, TypeScript**
+impl Description {
+    fn add_technology(&mut self, technology: String) {
+        self.technologies.push(technology);
+    }
+}
 
-- 👯  I’m looking to collaborate on **React Native Projects**
+fn main() {
+    let mut my_self = Description {
+        full_name: String::from("Claudio Bogarin"),
+        country: String::from("ARG"),
+        role: String::from("FullStack Developer"),
+        languages: vec![
+            String::from("Spanish"),
+            String::from("English")
+        ],
+        technologies: vec![
+            String::from("Rust"),
+            String::from("TypeScript"),
+            String::from("React"),
+            String::from("Python"),
+        ]
+    };
 
-- 🤝  I’m looking for help with **NextJS**
-
-- 💬  Ask me about **JavaScript**
-
-- 📫  How to reach me **epache17@gmail.com**
-
-- ⚡   Hobbies **E-Sports and Music**
+    my_self.add_technology(String::from("Java"));
+    my_self.add_technology(String::from("?..."));
+}
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
